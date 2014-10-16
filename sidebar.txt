@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bky:home|Door43 (bky)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bky|d43-bky repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bky/archive/master.zip|d43-bky.zip]]
+
+**Recent Changes**
+{{changes>ns = bky}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bky|Ethnologue data]]
+
